@@ -28,6 +28,7 @@ São Paulo · Engenharia de Computação no Inteli · Técnico em Automação In
 
 - **[NVIDIA Startup AI Radar](https://github.com/JoseIsaias-AI/Nvidia-case)**: plataforma multiagente que encontra startups com uso real de IA e recomenda tecnologias NVIDIA com evidência e fonte
 - **[Análise de Ofertas Primárias](https://github.com/JoseIsaias-AI/Analise_de_Ofertas_Primarias_com_Langchain)**: dados da CVM e do Banco Central transformados em métricas de risco e retorno e em leituras com LLM, no case BTG Pactual
+- **[Thermal Predictor](https://github.com/JoseIsaias-AI/Thermal-Predictor)**: triagem térmica de fogões de piso com machine learning, desenvolvida com a Whirlpool, com painel 3D, API e assistente de IA local (versão pública sobre base sintética)
 - **[Pulse Manager](https://github.com/JoseIsaias-AI/Pulse-Manager)**: sistema de gestão de alunos para a ONG Pulse Mais, feito em equipe no Inteli
 - **[VanguardIA](https://github.com/JoseIsaias-AI/VanguardIA)**: jogo que ensina machine learning, redes neurais e ética em IA, feito em equipe no Inteli
 - **[Radar IA](https://github.com/JoseIsaias-AI/Radar-IA)**: esteira em n8n que coleta, filtra e resume notícias de IA para a comunidade da Inteli Academy
